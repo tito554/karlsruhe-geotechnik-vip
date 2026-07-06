@@ -1,0 +1,44 @@
+# Geotechnik — Karlsruhe
+
+> Geotechnical engineering services in Karlsruhe, Deutschland.
+
+## Services
+- [Anker](https://karlsruhe.geotechnik.vip/anker/)
+- [Atterberg Grenzen](https://karlsruhe.geotechnik.vip/atterberg-grenzen/)
+- [Aushub](https://karlsruhe.geotechnik.vip/aushub/)
+- [Bodenplatten](https://karlsruhe.geotechnik.vip/bodenplatten/)
+- [Boschungsstabilitat](https://karlsruhe.geotechnik.vip/boschungsstabilitat/)
+- [Cpt Versuch](https://karlsruhe.geotechnik.vip/cpt-versuch/)
+- [Flexibler Belag](https://karlsruhe.geotechnik.vip/flexibler-belag/)
+- [Fundamente](https://karlsruhe.geotechnik.vip/fundamente/)
+- [Geophysik](https://karlsruhe.geotechnik.vip/geophysik/)
+- [Grundungen](https://karlsruhe.geotechnik.vip/grundungen/)
+- [Hange](https://karlsruhe.geotechnik.vip/hange/)
+- [In Situ Durchlassigkeit](https://karlsruhe.geotechnik.vip/in-situ-durchlassigkeit/)
+- [Korngrossenanalyse](https://karlsruhe.geotechnik.vip/korngrossenanalyse/)
+- [Labor](https://karlsruhe.geotechnik.vip/labor/)
+- [Labor In Situ](https://karlsruhe.geotechnik.vip/labor-in-situ/)
+- [Pfahle](https://karlsruhe.geotechnik.vip/pfahle/)
+- [Plattendruckversuch](https://karlsruhe.geotechnik.vip/plattendruckversuch/)
+- [Sandkegel Dichte](https://karlsruhe.geotechnik.vip/sandkegel-dichte/)
+- [Schurfgruben](https://karlsruhe.geotechnik.vip/schurfgruben/)
+- [Seismik](https://karlsruhe.geotechnik.vip/seismik/)
+- [Seismische Mikrozonierung](https://karlsruhe.geotechnik.vip/seismische-mikrozonierung/)
+- [Seismische Refraktion](https://karlsruhe.geotechnik.vip/seismische-refraktion/)
+- [Spt Bohrung](https://karlsruhe.geotechnik.vip/spt-bohrung/)
+- [Starrer Belag](https://karlsruhe.geotechnik.vip/starrer-belag/)
+- [Strassenbau](https://karlsruhe.geotechnik.vip/strassenbau/)
+- [Stutzmauern](https://karlsruhe.geotechnik.vip/stutzmauern/)
+- [Tiefe Aushube](https://karlsruhe.geotechnik.vip/tiefe-aushube/)
+- [Triaxialversuch](https://karlsruhe.geotechnik.vip/triaxialversuch/)
+- [Untersuchung](https://karlsruhe.geotechnik.vip/untersuchung/)
+- [Verflussigung](https://karlsruhe.geotechnik.vip/verflussigung/)
+- [Weichbodentunnel](https://karlsruhe.geotechnik.vip/weichbodentunnel/)
+- [Widerstand](https://karlsruhe.geotechnik.vip/widerstand/)
+
+## Contact
+- Website: https://karlsruhe.geotechnik.vip/
+
+## About
+This site provides geotechnical engineering services in Karlsruhe, Deutschland.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
